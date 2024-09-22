@@ -5,10 +5,10 @@ const Root = () => {
         <a href="/contacts/1">Ali</a>
       </li>
       <li>
-        <a href="/contacts/2">Ahmet</a>
+        <a href="/contacts/2">Jan</a>
       </li>
       <li>
-        <a href="/contacts/3">Zafer</a>
+        <a href="/contacts/3">Asli</a>
       </li>
     </ul>
   );
